@@ -21,7 +21,7 @@ Example:
 
 * Vincent_Pradier (base)
 
-* vdk_inventory [github](https://github.com/vodkhard/vdk_inventory) (animations list)
+* [vdk_inventory](https://github.com/vodkhard/vdk_inventory) (animations list)
 
 ## License
 
